@@ -116,7 +116,6 @@ h1{font-size:clamp(58px,8vw,110px);line-height:.98;margin:0 0 22px;font-weight:9
   .trust-strip{margin-top:0}.area-list{grid-template-columns:1fr}.gallery{grid-template-columns:1fr 1fr}
   .gallery img:first-child{grid-row:auto;height:265px}.image-stack{grid-template-columns:1fr}.image-stack img,.image-stack img:nth-child(1){height:260px}
 }
-
 .hero-content{padding-bottom:90px;}
 .hero{min-height:760px;}
 
@@ -134,4 +133,20 @@ border-color:#1fb857 !important;
   height:55px;
   width:auto;
   display:block;
+}
+@media(max-width:980px){
+
+  .brand-logo{
+    height:45px;
+  }
+
+  .brand small{
+    display:none;
+  }
+
+  .phone-pill{
+    font-size:14px;
+    padding:8px 10px;
+  }
+
 }
