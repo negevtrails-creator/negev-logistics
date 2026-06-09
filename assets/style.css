@@ -144,9 +144,9 @@ border-color:#1fb857 !important;
     display:none;
   }
 
-  .phone-pill{
-    font-size:11px;
-    padding:6px 8px;
+ .phone-pill{
+    display:none;
+}
   }
 
 }
