@@ -130,3 +130,8 @@ box-shadow:0 10px 25px rgba(37,211,102,.35);
 background:#1fb857 !important;
 border-color:#1fb857 !important;
 }
+.brand-logo{
+  height:55px;
+  width:auto;
+  display:block;
+}
