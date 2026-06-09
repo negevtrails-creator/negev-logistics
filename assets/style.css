@@ -145,22 +145,8 @@ border-color:#1fb857 !important;
   }
 
   .phone-pill{
-    font-size:14px;
-    padding:8px 10px;
-  }
-
-}
-@media(max-width:980px){
-
-  .phone-pill{
-    font-size:0;
-    padding:10px;
-    min-width:auto;
-  }
-
-  .phone-pill::before{
-    content:"☎";
-    font-size:22px;
+    font-size:11px;
+    padding:6px 8px;
   }
 
 }
