@@ -146,6 +146,9 @@ border-color:#1fb857 !important;
 
  .phone-pill{
     display:none;
+  }
+  .topbar{
+    min-height:95px;
 }
   }
 
