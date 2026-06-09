@@ -150,3 +150,17 @@ border-color:#1fb857 !important;
   }
 
 }
+@media(max-width:980px){
+
+  .phone-pill{
+    font-size:0;
+    padding:10px;
+    min-width:auto;
+  }
+
+  .phone-pill::before{
+    content:"☎";
+    font-size:22px;
+  }
+
+}
