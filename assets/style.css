@@ -147,12 +147,11 @@ border-color:#1fb857 !important;
  .phone-pill{
     display:none;
   }
-  .topbar{
+    .topbar{
     min-height:92px;
-}
   }
-
 }
+
 .hero h1 {
   font-size: clamp(40px, 6vw, 78px);
 }
